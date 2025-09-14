@@ -1,8 +1,8 @@
-# 🌸 Hi there, I'm [اسمك]! 💖  
+# 🌸 Hi there, I'm ,Howida ashraf!   
 
-🎓 **AI Student | Aspiring Full-Stack Developer**  
+AI Student | Aspiring Full-Stack Developer 
 💻 Passionate about **.NET, C#, React, Python & AI**  
-🌷 Love writing clean code & creating beautiful projects  
+ Love writing clean code & creating beautiful projects  
 
 ---
 
@@ -28,7 +28,7 @@
 
 ---
 
-## 🌷 Featured Projects 🎀  
+## 🌸 Featured Projects  
 - 🎮 [Snake Game in C++](https://github.com/YourUser/SnakeGame)  
 - 📝 [Task Manager API](https://github.com/YourUser/TaskAPI)  
 - 🌐 [Portfolio Website](https://github.com/YourUser/Portfolio)  
@@ -49,4 +49,4 @@
 
 ---
 
-✨ *"Keep coding with 💕 and pink vibes!"* 🎀
+
