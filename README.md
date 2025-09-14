@@ -42,12 +42,8 @@ AI Student | Aspiring Full-Stack Developer
 
 ---
 
-## 💌 Connect with Me  
-[![LinkedIn]
-
-
-https://www.linkedin.com/in/howidaashraf?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-
+## 💌 Connect with Me 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pink?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/howidaashraf?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 
 [![Email](https://img.shields.io/badge/-Email-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)  
