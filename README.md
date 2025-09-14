@@ -46,8 +46,8 @@ AI Student | Aspiring Full-Stack Developer
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pink?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/howidaashraf?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 
-[![Email](https://img.shields.io/badge/-Email-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF1493?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)  
+[![Email](https://img.shields.io/badge/-Email-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:howidaashraf83@gmail.com)  
+
 
 ---
 
