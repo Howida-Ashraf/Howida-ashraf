@@ -1,7 +1,7 @@
 # 🌸 Hi there, I'm ,Howida ashraf!   
 
 AI Student | Aspiring Full-Stack Developer 
-💻 Passionate about **.NET, C#, React, Python & AI**  
+ Passionate about **.NET, C#, React, Python & AI**  
  Love writing clean code & creating beautiful projects  
 
 ---
